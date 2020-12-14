@@ -37,10 +37,17 @@ relationships that make sense come to light.
   
 ## Clustering
 
-Running scikit learn's implementation of [k-means clustering](https://en.wikipedia.org/wiki/K-means_clustering) on the above t-SNE data produced results supporting many of the qualitative insights about the tweet relationships discussed above.  
+Running scikit learn's implementation of [k-means clustering](https://en.wikipedia.org/wiki/K-means_clustering) on the above t-SNE data produced results supporting many of the qualitative insights about the tweet relationships discussed above. For instance cluster 2 (purple) is in the location that appeared to be composed of mostly political tweets, and the cluster results report this, with ‘president’, ‘obama’, ‘hillary’, and ‘america’ being the most common words in the cluster.
 
 ![](clustering-figs/kmeans-tsne-cos-6.png) 
 ![](clustering-figs/k6_2_metric.png) 
+
+Next we ran scikit learn's implementation of [DBSCAN](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html) on the t-SNE data and found some interesting clusters. For instance, cluster 6’s most frequent words are ‘look’, ‘dress’, and ‘wear’, and the most frequent author by far is Kim Kardashian. This is clearly a “fashion” cluster. Cluster 3’s most popular tweets are ‘food’, ‘hot’, ‘eat’, and ‘pizza’, and the most common authors are Neil Degreasse Tyson, Adam Savage, Kim Kardashian, and Scott Kelly - all tweeters with individual
+accounts who may be more likely to tweet about their personal lives. This is clearly a ‘food’ cluster.
+
+![](clustering-figs/tsne-db-2-5-50.png) 
+![](clustering-figs/db-tsne-6.png)
+![](clustering-figs/db-tsne-3.png)
 
 
 
