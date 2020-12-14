@@ -47,11 +47,11 @@ accounts who may be more likely to tweet about their personal lives. This is cle
 
 ![](clustering-figs/tsne-db-2-5-50.png) 
 ![](clustering-figs/db-tsne-6.png)
-![](clustering-figs/db-tsne-3.png)
-
-
-
+![](clustering-figs/db-tsne-11.png)
+  
+For more results involving clustering using PCA, check out the [full report](https://github.com/mkcyoung/tweet-clustering/blob/main/Clustering%20Final%20Project.pdf).
 
 ## Acknowledgements
 
+This was my final project for the course CS 6180: Clustering, taught by [Suresh Venkatasubramanian](http://www.cs.utah.edu/~suresh/) at the University of Utah. My partner for this project was Daniel Merrel, who focused more on using TF-IDF in his analysis. 
 
