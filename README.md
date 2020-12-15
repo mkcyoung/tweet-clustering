@@ -2,7 +2,7 @@
 
 [Code](word2vec_exploration.ipynb) 
 
-[Full project report](https://github.com/mkcyoung/tweet-clustering/blob/main/Clustering%20Final%20Project.pdf)
+[Project report](https://github.com/mkcyoung/tweet-clustering/blob/main/Clustering%20Final%20Project.pdf)
 
 ## Exploring the relationships between tweets using dimensionality reduction and clustering.
 
