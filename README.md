@@ -1,6 +1,6 @@
 # tweet-clustering
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1z-WQcZGj5XBdVVaxwgqYesPbliKd7tMg#scrollTo=WL9ZemWRhDGH) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1z-WQcZGj5XBdVVaxwgqYesPbliKd7tMg/view?usp=sharing) 
 
 [Full project report](https://github.com/mkcyoung/tweet-clustering/blob/main/Clustering%20Final%20Project.pdf)
 
