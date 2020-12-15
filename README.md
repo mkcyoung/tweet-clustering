@@ -1,6 +1,6 @@
 # tweet-clustering
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](word2vec_exploration.ipynb) 
+[Code](word2vec_exploration.ipynb) 
 
 [Full project report](https://github.com/mkcyoung/tweet-clustering/blob/main/Clustering%20Final%20Project.pdf)
 
